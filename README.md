@@ -12,7 +12,6 @@ Substrate Specifications
 
 - Material: Rogers RT/duroid 5880 (RT5880)
 - Dielectric Constant (εr): 2.2
-- Loss Tangent (tan δ): 0.0009
 - Substrate Thickness (h): 1.575 mm
 
 Design Equations
